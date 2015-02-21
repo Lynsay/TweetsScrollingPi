@@ -8,6 +8,8 @@
 #Version 2.2 February 2015
 
 #Written by Lynsay A. Shepherd
+#Licensed under The MIT License (MIT)
+#Copyright (c) {{{2015}}} {{{Lynsay A. Shepherd}}}
 
 #import stuff
 from twython import Twython
