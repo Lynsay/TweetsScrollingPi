@@ -1,4 +1,4 @@
-#LCD Scrolling Tweets
+#TweetsScrollingPi
 
 Lynsay A. Shepherd, February 2015
 
