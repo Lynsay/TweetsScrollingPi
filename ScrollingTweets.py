@@ -1,15 +1,18 @@
-#Scroll your Twitter feed on an LCD screen connected to the GPIO of a Raspberry Pi
-#Requires several libraries...
-#The Adafruit_CharLCDPlate library- https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code/tree/master/Adafruit_CharLCDPlate
-#The Twython pure Python wrapper for the Twitter API- https://github.com/ryanmcgrath/twython
+#!/usr/bin/env python
 
-#Version 1.0 December 2013
-#Version 2.1 December 2014
-#Version 2.2 February 2015
-
-#Written by Lynsay A. Shepherd
-#Licensed under The MIT License (MIT)
-#Copyright (c) {{{2015}}} {{{Lynsay A. Shepherd}}}
+'''
+	File: ScrollingTweets.py
+	Version: 2.2
+	Date: February 2015
+	Author: Lynsay A. Shepherd
+	License: MIT License (MIT)
+	
+	Description: Scroll your Twitter feed on an LCD screen connected to the GPIO of a Raspberry Pi.
+	#Requires several libraries...
+	#The Adafruit_CharLCDPlate library- https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code/tree/master/Adafruit_CharLCDPlate
+	#The Twython pure Python wrapper for the Twitter API- https://github.com/ryanmcgrath/twython
+		
+'''
 
 #import stuff
 from twython import Twython
