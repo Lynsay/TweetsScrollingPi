@@ -12,3 +12,5 @@ This script was originally written for the <a href="http://www.adafruit.com/prod
 
 ##Future Updates
 The final version of the script should restart if the Raspberry Pi internet connection fails.
+
+Test
